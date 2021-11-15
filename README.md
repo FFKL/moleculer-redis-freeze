@@ -2,4 +2,4 @@
 npm run start
 ```
 
-`worker.getBigMessage` call promise will wait forever
+`worker.getBigMessage` call will wait forever
